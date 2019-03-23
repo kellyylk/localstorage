@@ -1,0 +1,36 @@
+h1 {
+  font-size: 20px;
+  font-family: courier new;
+}
+
+h2 {
+    font-family: courier new;
+    size: 50px;
+}
+
+.container {
+margin-left: 10px;
+margin-bottom:100px;
+}
+
+.box {
+  size:1000px;
+  margin-top:100px;
+  margin-left:300px;
+
+}
+
+.lala {
+	height:500px;
+	width: 800px;
+	
+}
+
+
+.letters {
+margin-top: 20px;
+margin-left: 400px;
+
+}
+
+
